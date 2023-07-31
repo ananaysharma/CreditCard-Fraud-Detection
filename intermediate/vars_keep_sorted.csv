@@ -1,0 +1,21 @@
+wrapper order,variable,filter score
+1,card_merch_total_14,0.6300372292429273
+2,card_zip3_max_30,0.6144375293204408
+3,card_state_total_3,0.6442122993188195
+4,Merchnum_desc_total_1,0.5284232299109105
+5,Card_Merchdesc_Zip_max_60,0.5838427745385475
+6,card_state_total_0,0.5557108902520866
+7,Card_Merchdesc_max_60,0.5863291603299976
+8,Card_Merchnum_desc_max_60,0.5861225897261072
+9,Card_Merchnum_Zip_avg_14,0.5155644166375206
+10,Card_Merchnum_Zip_max_60,0.5887628900584216
+11,card_merch_avg_14,0.5183864382965353
+12,card_merch_max_60,0.5914874690462077
+13,state_des_total_1,0.530618145986639
+14,Merchnum_desc_State_total_7,0.5172100220164804
+15,Merchnum_desc_total_7,0.517101752381782
+16,Merchnum_desc_State_total_1,0.5284340568743804
+17,card_zip3_total_60,0.6116679775875444
+18,Card_Merchnum_Zip_total_14,0.6273234772186108
+19,Card_Merchnum_Zip_total_30,0.6109778646609711
+20,Merchnum_desc_State_total_3,0.5374791007031073
