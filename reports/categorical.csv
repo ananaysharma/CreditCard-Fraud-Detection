@@ -1,0 +1,9 @@
+,Field Name,Field Type,# Records With Values,% Populated,# Zeros,# Unique Values,Most Common
+0,Recnum,int64,96753,100.00%,0,96753,1
+1,Cardnum,int64,96753,100.00%,0,1645,5142148452
+2,Merchnum,object,93378,96.51%,0,13091,930090121224
+3,Merch description,object,96753,100.00%,0,13126,GSA-FSS-ADV
+4,Merch state,object,95558,98.76%,0,227,TN
+5,Merch zip,float64,92097,95.19%,0,4567,38118.0
+6,Transtype,object,96753,100.00%,0,4,P
+7,Fraud,int64,96753,100.00%,95694,2,0
